@@ -1,0 +1,26 @@
+_repo: The-acendancy-of-France-1598-1715_71365
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Wakeman, Henry Offley
+    gutenberg_agent_id: '56192'
+    url: http://www.gutenberg.org/2009/agents/56192
+description: ''
+gutenberg_issued: '2023-08-08'
+identifiers:
+  gutenberg: '71365'
+language: en
+pgterms:marc905: 20120228065028wakeman
+pgterms:marc906: '1897'
+pgterms:marc907: GB
+production_note: Chris Curnow, Karin Spence and the Online Distributed Proofreading
+  Team at https://www.pgdp.net (This file was produced from images generously made
+  available by The Internet Archive)
+publication_note: '  $aLondon :$bRivington, Percival and Co., $c1897.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: The acendancy of France 1598-1715
+url: http://www.gutenberg.org/ebooks/71365
