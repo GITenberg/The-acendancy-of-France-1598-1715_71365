@@ -1,11 +1,16 @@
 _repo: The-acendancy-of-France-1598-1715_71365
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 71365-h/images/cover.jpg
 creator:
   author:
     agent_name: Wakeman, Henry Offley
     gutenberg_agent_id: '56192'
     url: http://www.gutenberg.org/2009/agents/56192
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/71365#The-acendancy-of-France-1598-1715
 gutenberg_issued: '2023-08-08'
 identifiers:
   gutenberg: '71365'
